@@ -1,84 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ritesh Rana</h1>
+<div align="center">
 
-<h3 align="center">💻 BCA Student | Aspiring MERN Stack Developer</h3>
+# Hi 👋, I'm Ritesh Rana
 
-<p align="center">
-  Passionate about Web Development • Learning Every Day 🚀
-</p>
+### 💻 BCA Student | Aspiring MERN Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Projects+Every+Day" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 BCA Student
-- 💻 Aspiring Full Stack (MERN) Developer
-- 🌱 Currently learning HTML, CSS, JavaScript, React, Node.js, Express & MongoDB
-- 🎯 Goal: Become a Software Engineer
-- 📍 Surat, Gujarat, India
+- 🌱 Learning **MERN Stack**
+- 💻 Building Web Projects
+- 🎯 Goal: Software Developer
+- 📍 Surat, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RiteshRana7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshRana7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Clone
-Responsive Netflix landing page using HTML & CSS.
-
-### 🎥 Prime Video Clone
-Modern UI inspired by Amazon Prime Video.
-
-### 📱 Responsive Websites
-Built with HTML, CSS & Media Queries.
-
-### ⚡ JavaScript Practice
-Small JavaScript projects and DOM practice.
+- 🎬 Netflix Clone
+- 🎥 Prime Video Clone
+- 🌐 Responsive Websites
+- ⚡ JavaScript Projects
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
-- ✅ Master JavaScript
-- ✅ Learn React.js
-- ✅ Learn Node.js
-- ✅ Learn Express.js
-- ✅ Learn MongoDB
-- ✅ Build 20+ Projects
-- ✅ Get an Internship / Placement
+### ⭐ Thanks for visiting my profile ⭐
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshRana7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshRana7&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/RiteshRana7
-
----
-
-<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
+</div>
