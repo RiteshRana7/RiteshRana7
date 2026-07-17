@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Ritesh Rana
 
-<!--
-**RiteshRana7/RiteshRana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+🚀 Goals
+- Become MERN Stack Developer
+- Crack a Good Placement
+- Build Real World Projects
+
+## 🛠 Tech Stack
+
+HTML | CSS | JavaScript | Git | GitHub | Bootstrap
+
+## 📈 GitHub Stats
+
+Thanks for visiting my profile ❤️
