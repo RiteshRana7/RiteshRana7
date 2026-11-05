@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=200&section=header&text=RITESH%20RANA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=190&section=header&text=RITESH%20RANA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BCA%20STUDENT%20%7C%20MERN%20STACK%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" />
 
-<h3>💻 BCA Student | MERN Stack Developer</h3>
+<h3>Building Ideas Into Reality Through Code</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Websites;Turning+Ideas+Into+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Building+Modern+Websites;Always+Learning+%26+Growing" />
 
 <br/>
 
@@ -17,13 +18,21 @@
 
 <h2 align="center">✦ ABOUT ME</h2>
 
-<p align="center">
-  🎓 Final Year BCA Student <br/>
-  💻 Passionate about Full Stack Development <br/>
-  🌱 Currently Learning MERN Stack <br/>
-  ⚡ Building Creative & Responsive Websites <br/>
-  📍 Surat, Gujarat, India
-</p>
+<div align="center">
+
+🎓 Final Year BCA Student
+
+💻 Passionate about Full Stack Development
+
+🌱 Currently Learning MERN Stack
+
+⚡ Building Creative & Responsive Websites
+
+🎯 Aspiring Software Developer
+
+📍 Surat, Gujarat, India
+
+</div>
 
 ---
 
@@ -59,11 +68,21 @@
 
 ---
 
-<h2 align="center">✦ GITHUB STREAK 🔥</h2>
+<h2 align="center">🔥 GITHUB STREAK</h2>
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshRana7&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshRana7&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshRana7&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=8B5CF6&point=FFFFFF" />
 
 </div>
 
@@ -94,9 +113,13 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 <img src="https://img.shields.io/badge/CSS-Responsive-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
 <img src="https://img.shields.io/badge/Node.js-Exploring-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
@@ -109,9 +132,12 @@
 
 <h3>Thanks for visiting my profile!</h3>
 
-<p><i>Every expert was once a beginner.</i></p>
+<i>Every expert was once a beginner.</i>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/KEEP-LEARNING-2563EB?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/KEEP-BUILDING-9333EA?style=for-the-badge" />
 
 <br/><br/>
