@@ -1,98 +1,133 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Ritesh Rana
+# Hey 👋, I'm Ritesh Rana
 
-### 💻 BCA Final Year Student | MERN Stack Developer
+### 💻 Full Stack Developer | BCA Student | Tech Enthusiast
 
-**Building the Web • Learning Every Day • Creating Something New**
+🚀 Always Learning New Things 🔥
 
-<img src="https://img.shields.io/badge/Frontend-Developer-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN-Stack-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20To-Learning-16A34A?style=for-the-badge" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-RiteshRana7-181717?style=for-the-badge&logo=github)](https://github.com/RiteshRana7)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer+in+Progress;Learning+New+Technologies;Building+Real+World+Projects" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 
-- 🎓 Final Year BCA Student
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently learning MERN Stack
-- 🎨 Love creating modern and responsive websites
-- ⚡ Improving my coding skills every day
-- 📍 Surat, Gujarat, India
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 BCA Final Year Student
+- 💻 Currently learning Full Stack Development
+- 🌱 Learning JavaScript & Backend Development
+- 🚀 Interested in building real-world projects
+- 🎯 Goal: Become a skilled Software Developer
+- 📚 Always learning and improving my skills
+- ⚡ Fun fact: I love turning ideas into code!
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,html,css,js" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=bootstrap,react" />
+
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## 💻 What I'm Working On
-
-| Technology | Status |
-|:---|:---|
-| HTML5 | Learning |
-| CSS3 | Learning |
-| JavaScript | Improving |
-| Bootstrap | Practicing |
-| React.js | Learning |
-| Node.js | Exploring |
-| MongoDB | Exploring |
-
----
-
-## 🌟 My Projects
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/RiteshRana7/HTML">
-<img src="https://img.shields.io/badge/HTML-Frontend%20Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://github.com/RiteshRana7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
-| Project | Description |
-|:---|:---|
-| 🏡 ClearNest | Cleaning Service Website |
-| 🎬 Netflix Clone | Streaming Platform UI |
-| 🎥 Prime Video Clone | Video Streaming UI |
-| 🌐 Portfolio | Personal Portfolio Website |
-
 ---
 
-## 📊 GitHub Activity
+## 🔥 GitHub Stats
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&logo=github)](https://github.com/RiteshRana7?tab=repositories)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RiteshRana7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-[![GitHub Followers](https://img.shields.io/github/followers/RiteshRana7?style=for-the-badge&logo=github&label=Followers)](https://github.com/RiteshRana7?tab=followers)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshRana7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 My Goal
+## 🔥 GitHub Streak
 
-To become a skilled Full Stack Developer, build real-world projects and keep growing in the world of technology.
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RiteshRana7&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshRana7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RiteshRana7/RiteshRana7/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ CODE. LEARN. BUILD. REPEAT.
+### ❤️ Thanks for visiting my profile!
 
-**Thanks for visiting my profile!** ❤️
+<img src="https://komarev.com/ghpvc/?username=RiteshRana7&label=Profile%20Views&color=blueviolet&style=flat" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
